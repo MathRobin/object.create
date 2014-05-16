@@ -2,7 +2,7 @@
 
 Polyfills for object.create, available on bower.
 
-This method has been added to the ECMAScript 6 specification and may not be available in all JavaScript implementations yet. Have a look there for compat table : http://kangax.github.io/compat-table/es5/#Object.create
+This method has been added to the ECMAScript 5 specification and may not be available in all JavaScript implementations yet. Have a look there for compat table : http://kangax.github.io/compat-table/es5/#Object.create
 
 ## Install
 
