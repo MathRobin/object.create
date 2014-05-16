@@ -12,7 +12,7 @@ This method has been added to the ECMAScript 6 specification and may not be avai
 
 Include this file:
 
-*src/object.create.js*
+    src/object.create.js
 
 ## Tests
 
